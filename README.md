@@ -1,4 +1,4 @@
-Hi there, I'm Samuel Ofori! 👋
+ # Hi there, I'm Samuel Ofori! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Samuel-o77&color=blue)
 
