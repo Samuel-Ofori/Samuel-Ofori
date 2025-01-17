@@ -24,7 +24,7 @@ I'm a Data Enthusiast passionate about uncovering insights and solving problems 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff)
 
 ### Skills:
-- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn
+- **Data Visualization**: Power BI, Tableau, Matplotlib
 - **Database Management**: MySQL, PostgreSQL
 - **Programming Languages**: Python (in process)
 - **Other Tools**: Microsoft Excel, Google Sheets, Git
